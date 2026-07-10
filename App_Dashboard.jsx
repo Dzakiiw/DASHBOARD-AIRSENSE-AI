@@ -1,5 +1,3 @@
-// Program Final App.jsx - versi dengan komentar penjelasan
-
 import React, { useEffect, useRef, useState } from 'react'
 import {
   HomeIcon,
