@@ -1,5 +1,3 @@
-// Program Final Server.js - versi dengan komentar penjelasan
-
 const express = require("express")
 const cors = require("cors")
 
